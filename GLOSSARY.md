@@ -1,15 +1,46 @@
 # Glossary
 
-## F
+## A
 
+## B
+- **boss.** a protruding feature on a work piece.
+
+## C
+- **chamfer.**
+
+## D
+
+## E
+
+## F
+- **fillet.**
 - **Fused Deposition Modeling (FDM).**
 
 ## G
 
 ## H
 
-## S
+## I
 
+## J
+
+## K
+
+## L
+
+## M
+
+## N
+
+## O
+
+## P
+
+## Q
+
+## R
+
+## S
 - **Selective Laser Sintering (SLS).**
 - **Simulation Description Format (SDF).**
   - See also: Unified Robot Description Format
@@ -21,5 +52,15 @@
 ## T
 
 ## U
-
 - **Unified Robot Description Format (URDF).**
+
+## V
+
+## W
+
+## X
+
+## Y
+
+## Z
+
