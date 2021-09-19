@@ -13,6 +13,7 @@
 ## E
 
 ## F
+- **feeler gauge.** a gauge consisting of a number of thin blades of calibrated thickness used for measuring narrow gaps or clearances.
 - **fillet.**
 - **Fused Deposition Modeling (FDM).**
 
