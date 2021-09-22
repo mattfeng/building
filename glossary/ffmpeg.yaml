@@ -1,0 +1,3 @@
+- term: constant rate factor
+  abrv: CRF
+  defn: Use this rate control mode if you want to keep the best quality and care less about the file size.
