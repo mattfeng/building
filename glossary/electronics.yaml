@@ -1,0 +1,20 @@
+# electronics production
+- term: stuffing
+  defn: the process of placing electronic components on a PCB.
+- term: tacking down
+  defn: |
+    using solder to hold down one side of a surface-mount electronics
+    component, soldering the other side, and then finally resoldering the side
+    tacked down.
+- term: braid
+  defn: a desoldering tool that is a braid of pre-fluxed copper
+  also:
+    - solder wick
+- term: computer-aided manufacturing
+  abrv: CAM
+  defn: |
+    the process of generating machine instructions for how to cut a
+    particular desired design (e.g. PCB traces).
+  also:
+    - tool path generation
+
