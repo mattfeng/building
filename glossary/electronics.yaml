@@ -17,4 +17,19 @@
     particular desired design (e.g. PCB traces).
   also:
     - tool path generation
-
+- term: ball grid array
+  abrv: BGA
+- term: via
+  abrv:
+- term: silk screen
+  defn: used for text on the PCB
+- term: surface-mount parts
+- term: reflow soldering
+  defn: the process in which a solder paste (sticky mixture of powdered solder and flux) is used to temporarily attach electrical components to their contact pads, after which the entire assembly is heated. The paste _reflows_ into a molten state, eventually forming permanent solder joints.
+  also:
+    - reflow
+- term: eutectic
+  : |
+    a mixture of substances (in fixed proportions) that melts and
+    solidifies at a single temperature lower than the melting points of the
+    separate constituents or of any other mixture of them.
