@@ -33,3 +33,11 @@
     a mixture of substances (in fixed proportions) that melts and
     solidifies at a single temperature lower than the melting points of the
     separate constituents or of any other mixture of them.
+- term: electronic design automation
+  abrv: EDA
+  defn: a category of software tools for designing electronic systems such as integrated circuits and printed circuit boards.
+- term: crystal oscillator (clock)
+  abrv:
+    - XTAL
+    - CLK
+
