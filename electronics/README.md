@@ -100,3 +100,7 @@
 - voltage regulator
 - PNG resolution
   - 1000 dpi -> 1 pixel = 1 mil
+
+## CMSIS-DAP
+- CMSIS. Common Microcontroller Software Interface Standard 
+- DAP. Debug Access Port
